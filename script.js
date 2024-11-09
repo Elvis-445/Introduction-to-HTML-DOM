@@ -1,0 +1,1 @@
+var text=document.getElementById("onee").innerHTML;alert("You have 6 " + text)
